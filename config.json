@@ -1,0 +1,10 @@
+{
+	"name": "Default",
+	"version": 0.1,
+	"raw-repo": "https://github.com/notcooler/chadsoundboard/raw/main/",
+	"memes": [
+		{
+			"name": "vine-boom"
+		}
+	]
+}
