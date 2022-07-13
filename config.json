@@ -3,9 +3,5 @@
 	"version": 0.1,
 	"url": "https://raw.githubusercontent.com/notcooler/chadsoundboard/main/config.json",
 	"rawRepo": "https://github.com/notcooler/chadsoundboard/raw/main/",
-	"memes": [
-		{
-			"name": "vine-boom"
-		}
-	]
+	"memes": ["vine-boom"]
 }
