@@ -1,8 +1,8 @@
 {
 	"name": "Default",
 	"author": "notcooler",
-	"version": 0.33,
+	"version": 0.34,
 	"url": "https://raw.githubusercontent.com/notcooler/chadsoundboard/main/config.json",
 	"rawRepo": "https://github.com/notcooler/chadsoundboard/raw/main/",
-	"memes": ["vine-boom"]
+	"memes": ["vine-boom", "lesgo"]
 }
