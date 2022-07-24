@@ -1,9 +1,9 @@
 {
 	"name": "Default",
 	"author": "notcooler",
-	"version": 0.7
+	"version": 0.71
 	,
 	"url": "https://raw.githubusercontent.com/notcooler/chadsoundboard/main/config.json",
 	"rawRepo": "https://github.com/notcooler/chadsoundboard/raw/main/",
-	"memes": ["Nutella", "Okeh"]
+	"memes": ["Nutella"]
 }
